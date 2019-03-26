@@ -1,0 +1,32 @@
+{ "Ciudad":
+    [
+       {
+         "Nombre": "Palermo",
+         "Tanque": 0,
+         "Capacidad" : 123,
+         "Posx":260,
+         "Posy" : 250
+       },
+	   {
+	      "Nombre": "Estrella",
+          "Tanque": 1,
+	      "Capacidad" : 200,
+	      "Posx":620,
+	      "Posy" : 270
+	   },
+	   {
+	      "Nombre": "Chipre",
+          "Tanque": 0,
+	      "Capacidad" : 263,
+	      "Posx":420,
+	      "Posy" : 350
+	   },
+	   {
+	      "Nombre": "Enea",
+          "Tanque": 1,
+	      "Capacidad" : 200,
+	      "Posx":520,
+	      "Posy" : 150
+	   }
+    ]
+}
